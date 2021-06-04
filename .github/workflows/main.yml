@@ -14,4 +14,4 @@ jobs:
         uses: cypress-io/github-action@v2
         with:
           wait-on: http://localhost:19000/
-          start: yarn start -web --localhost
+          start: yarn start --web --localhost
