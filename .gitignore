@@ -1,5 +1,4 @@
 node_modules/
-cypress.json
 .expo/
 npm-debug.*
 *.jks
